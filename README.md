@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"
-       width="30%"
-       style="max-width:300px; height:auto;" />
+       width="40%"
+       style="max-width:600px; height:auto;" />
 </p>
 <br>
 

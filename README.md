@@ -1,6 +1,8 @@
 # 💫 About Me:
 Software Engineer | Data Science Enthusiast | Building and learning with C, C++, C#, Python & Web Tech<br>Software Engineer with a growing focus on Data Science. <br>Skilled in C, C++, C#, Python, and modern web technologies.<br> Passionate about building impactful solutions and continuously learning new skills.
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
   ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Dv9JF8oHr/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haroon4203) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/haroon-rasheed-06b8a3367?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haroonrasheedlakho@gmail.com) 

@@ -1,7 +1,14 @@
 # 💫 About Me:
-Software Engineer | Data Science Enthusiast | Building and learning with C, C++, C#, Python & Web Tech<br>Software Engineer with a growing focus on Data Science. <br>Skilled in C, C++, C#, Python, and modern web technologies.<br> Passionate about building impactful solutions and continuously learning new skills.
+<h1 align="center">Hi 👋, I'm Haroon Rasheed</h1>
+<img align="right" alt="Coding" width="270" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<br>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+Software Engineer | Data Science Enthusiast | Building and <br>learning with C, C++, C#, Python & Web Tech<br>Software Engineer with a growing focus on Data Science. <br>Skilled in C, C++, C#, Python, and modern web technologies.<br> Passionate about building impactful solutions <br>continuously learning new skills.
+
+<br>
+
+
 
 
   ## 🌐 Socials:

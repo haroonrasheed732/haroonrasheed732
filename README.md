@@ -8,6 +8,11 @@
 </p>
 <br>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Python+Expert;AI+Enthusiast;Forent+end+Developer;Data+Analyst" />
+</h3>
+<br>
+
 
 Software Engineer | Data Science Enthusiast | Building and learning with C, C++, C#, Python & Web Tech<br>Software Engineer with a growing focus on Data Science. <br>Skilled in C, C++, C#, Python, and modern web technologies.<br> Passionate about building impactful solutions and continuously learning new skills.
 

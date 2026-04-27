@@ -27,4 +27,28 @@ Software Engineer | Data Science Enthusiast | Building and learning with C, C++,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haroonrasheed732&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+</p>
+
+---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300px">
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

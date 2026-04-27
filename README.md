@@ -38,15 +38,17 @@ Software Engineer | Data Science Enthusiast | Building and learning with C, C++,
 ---
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=haroonrasheed732&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=haroonrasheed732&theme=radical&hide_border=false)<br/>
+
 
 
 ---
 
 ### 🔥 Streak Stats  
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=waqar-ahmed-sadhayo&theme=algolia&hide_border=false" />
+<p>
+  <img src="https://streak-stats.demolab.com?user=haroonrasheed732&theme=algolia&hide_border=false"/>
 </p>
 
 

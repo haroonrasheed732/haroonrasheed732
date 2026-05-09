@@ -43,6 +43,11 @@ Software Engineer | Data Science Enthusiast | Building and learning with C, C++,
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=haroonrasheed732&show_icons=true&theme=radical" />
 </p>
 
+### 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=haroonrasheed732&theme=radical&no-frame=true&margin-w=15" />
+</p>
+
 
 
 

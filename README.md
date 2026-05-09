@@ -39,8 +39,11 @@ Software Engineer | Data Science Enthusiast | Building and learning with C, C++,
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=haroonrasheed732&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=haroonrasheed732&theme=radical&hide_border=false)<br/>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=haroonrasheed732&show_icons=true&theme=radical" />
+</p>
+
+
 
 
 ---
@@ -54,7 +57,9 @@ Software Engineer | Data Science Enthusiast | Building and learning with C, C++,
 ---
 
 ### 💡 Top Languages 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haroonrasheed732&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haroonrasheed732&layout=compact&theme=radical" />
+</p>
 
 
 

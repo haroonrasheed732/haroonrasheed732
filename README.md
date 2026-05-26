@@ -54,7 +54,7 @@ Software Engineer | Data Science Enthusiast | Building and learning with C, C++,
 ---
 
 ### 🔥 Streak Stats  
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=haroonrasheed732&theme=algolia&hide_border=false"/>
 </p>
 
